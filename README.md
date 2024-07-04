@@ -12,7 +12,7 @@ Este projeto implementa um formulário de login simples utilizando React, React 
 - Utilização do **React Hook Form** para gerenciar o estado e a validação do formulário.
 - Uso do **Yup** para definir um schema de validação para os campos de entrada.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React**
 - **TypeScript**
